@@ -2,6 +2,8 @@
 My first app using React Native.
 I made this app while following the Udemy course - https://www.udemy.com/course/the-complete-react-native-and-redux-course/
 
+This app connects to the Yelp API to retrieve all the information and pictures about the restaurants.
+
 
 
 ![IssaquahRestApp1](https://user-images.githubusercontent.com/66842621/110261139-d5c6d680-7f63-11eb-82b4-5b778e9d1fa4.PNG)
